@@ -18,3 +18,7 @@ A. Git can decide whether to make a fast forward merge , or a a conflict is arin
 Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A. pair programming will the option, if the number of collaborators goes high then github will be very usefull.
    when a project siz is big then github will save a lot of time in debugging.
+
+Q.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A. When something really experimental is to be done, or i am working on repository where i need my work to be approved by the main 
+   author before merging in master.
