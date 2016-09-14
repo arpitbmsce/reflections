@@ -11,3 +11,6 @@ A. fork - cloning a repository from one github account to another.
    clone - is to copy a repository from github to your local computer.
    branches - they are created on a repository either on github or local computer to work on either a new
    feature paralley or do something experimental and still have a working copy of project(master)
+
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+A. Git can decide whether to make a fast forward merge , or a a conflict is aring then we have to merge manually.
