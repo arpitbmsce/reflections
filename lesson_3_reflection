@@ -14,3 +14,7 @@ A. fork - cloning a repository from one github account to another.
 
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 A. Git can decide whether to make a fast forward merge , or a a conflict is aring then we have to merge manually.
+
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A. pair programming will the option, if the number of collaborators goes high then github will be very usefull.
+   when a project siz is big then github will save a lot of time in debugging.
